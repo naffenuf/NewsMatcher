@@ -1,0 +1,36 @@
+# Python cache directory
+__pycache__/
+
+# All json files
+*.json
+
+# Archive
+Old_Files/
+
+# Logs
+logs/
+*.log
+
+# indexes
+indexes/
+
+# All the article folders with dates for names
+[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/
+
+# adding in rss_feeds.json
+!source_list.json
+!rss_feeds.json
+
+# some work in progress stuffs:
+scrapers/WSJ attempts moved here/
+PostgreSQL-Scripts/
+save-to-db.py
+save_deduplicated_to_db.py
+find_matching_articles_fully_working.py
+
+.DS_Store
+
+*.tmp
+*.out
+
+venv/

@@ -1,0 +1,122 @@
+[
+  {
+    "rss_feed": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+    "site_url": "https://www.nytimes.com/ca/section/us",
+    "pub_name": "New York Times",
+    "bias": "left",
+    "nickname": "NYTimes",
+    "keyword": "nytimes.com",
+    "article_type": "news",
+    "boilerplate": []
+  },
+  {
+    "rss_feed": "https://nypost.com/news/feed/",
+    "site_url": "https://nypost.com/",
+    "pub_name": "New York Post",
+    "bias": "right",
+    "nickname": "NYPost",
+    "keyword": "nypost.com",
+    "article_type": "news",
+    "boilerplate": []
+  },
+  {
+    "rss_feed": "https://www.nydailynews.com/feed/",
+    "site_url": "https://www.nydailynews.com/",
+    "pub_name": "New York Daily News",
+    "bias": "left",
+    "nickname": "Daily News",
+    "keyword": "nydailynews.com",
+    "article_type": "news",
+    "boilerplate": []
+  },
+  {
+    "rss_feed": "http://rss.cnn.com/rss/cnn_topstories.rss",
+    "site_url": "https://www.cnn.com/index.html",
+    "pub_name": "CNN",
+    "bias": "left",
+    "nickname": "CNN",
+    "keyword": "cnn.com",
+    "article_type": "news",
+    "boilerplate": []
+  },
+  {
+    "rss_feed": "http://rss.cnn.com/rss/cnn_us.rss",
+    "site_url": "https://www.cnn.com/us/index.html",
+    "pub_name": "CNN",
+    "bias": "left",
+    "nickname": "CNN",
+    "keyword": "cnn.com",
+    "article_type": "news",
+    "boilerplate": []
+  },
+  {
+    "rss_feed": "http://rss.cnn.com/rss/cnn_world.rss",
+    "site_url": "https://www.cnn.com/world/index.html",
+    "pub_name": "CNN",
+    "bias": "left",
+    "nickname": "CNN",
+    "keyword": "cnn.com",
+    "article_type": "news",
+    "boilerplate": []
+  },
+  {
+    "rss_feed": "https://moxie.foxnews.com/google-publisher/latest.xml",
+    "site_url": "https://www.foxnews.com/",
+    "pub_name": "Fox News",
+    "bias": "right",
+    "nickname": "Fox",
+    "keyword": "foxnews.com",
+    "article_type": "news",
+    "boilerplate": ["Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.", "Fox News Flash top sports headlines are here. Check out what's clicking on Foxnews.com.", "Get the latest updates from the 2024 campaign trail, exclusive interviews and more Fox News politics content. "]
+  },
+  {
+    "rss_feed": "https://www.dailywire.com/feeds/rss.xml",
+    "site_url": "https://www.dailywire.com/",
+    "pub_name": "Daily Wire",
+    "bias": "right",
+    "nickname": "DW",
+    "keyword": "dailywire.com",
+    "article_type": "news",
+    "boilerplate": []
+  },
+  {
+    "rss_feed": "https://www.nysun.com/rss/Allarticle.xml",
+    "site_url": "https://www.nysun.com/rss/Allarticle.xml",
+    "pub_name": "New York Sun",
+    "bias": "right",
+    "nickname": "The Sun",
+    "keyword": "nysun.com",
+    "article_type": "news",
+    "boilerplate": ["(c) 2023 The New York Sun Company, LLC."]
+  },
+  {
+    "rss_feed": "https://www.dailymail.co.uk/ushome/index.rss",
+    "site_url": "https://www.dailymail.co.uk",
+    "pub_name": "Daily Mail",
+    "bias": "both",
+    "nickname": "Daily Mail",
+    "keyword": "dailymail.co.uk",
+    "article_type": "news",
+    "boilerplate": ["Share what you think", "The comments below have not been moderated.", "The views expressed in the contents above are those of our users and do not necessarily reflect the views of MailOnline.", "By posting your comment you agree to our house rules.", "Do you want to automatically post your MailOnline comments to your Facebook Timeline?", "Your comment will be posted to MailOnline as usual.", "We will automatically post your comment and a link to the news story to your Facebook timeline at the same time it is posted on MailOnline. To do this we will link your MailOnline account with your Facebook account. We'll ask you to confirm this for your first post to Facebook. You can choose on each post whether you would like it to be posted to Facebook. Your details from Facebook will be used to provide you with tailored content, marketing and ads in line with our Privacy Policy.", "Published by Associated Newspapers Ltd Part of the Daily Mail, The Mail on Sunday & Metro Media Group"]
+  },
+  {
+    "rss_feed": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+    "site_url": "http://online.wsj.com/",
+    "pub_name": "The Wall Street Journal",
+    "bias": "both",
+    "nickname": "WSJ",
+    "keyword": "wsj.com",
+    "article_type": "news",
+    "boilerplate": []
+  },
+  {
+    "rss_feed": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+    "site_url": "http://online.wsj.com/",
+    "pub_name": "The Wall Street Journal",
+    "bias": "both",
+    "nickname": "WSJ",
+    "keyword": "wsj.com",
+    "article_type": "news",
+    "boilerplate": []
+  }
+]

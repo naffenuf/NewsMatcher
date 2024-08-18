@@ -1,0 +1,7 @@
+unidecode
+numpy
+sentence-transformers
+feedparser
+faiss-cpu
+newspaper3k
+lxml[html_clean]
